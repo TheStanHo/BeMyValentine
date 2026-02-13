@@ -9,7 +9,7 @@ export function VideoPage({ onBack }: VideoPageProps) {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-pink-100 via-rose-50 to-pink-200 p-4">
       <div className="bg-white rounded-3xl shadow-2xl p-8 md:p-12 max-w-4xl w-full text-center">
         <h1 className="text-4xl md:text-5xl font-romantic font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-rose-500 mb-8">
-          Thank you! 💕
+          See you soon!😉🌹💕
         </h1>
         
         <div className="aspect-video w-full mb-8 rounded-lg overflow-hidden shadow-lg">
